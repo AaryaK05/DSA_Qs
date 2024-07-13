@@ -1,2 +1,2 @@
 # DSA_Qs
-All leetcode+gfg dsa questions from apna college dsa sheet
+All my answers of leetcode+gfg dsa questions from apna college dsa sheet
