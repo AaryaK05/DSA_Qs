@@ -19,7 +19,7 @@ public:
         for(int j=a.length()-1;j>=0;j--){
             b+=a[j];
         }
-
+ 
         if(a==b){
             return true;
         }else{
