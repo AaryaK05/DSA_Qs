@@ -7,7 +7,7 @@ class Solution{
         // code here
         string b;
         
-        b+=S[0];
+        b+=S[0]; 
         for(int i=1;i<S.length();i++){
             if(S[i]==S[i-1]){
                 continue;
