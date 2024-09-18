@@ -13,7 +13,6 @@ public:
             cout<<pq.top();
             pq.pop();
         }
-
         return pq.top();
     }
 };
