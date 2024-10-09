@@ -1,4 +1,4 @@
-//Leetcode 
+//GFG 
 class solution {
   public:
     long long multiplyTwoLists(Node *first, Node *second) {
